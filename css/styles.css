@@ -1,0 +1,22 @@
+body {
+	max-width: 600px; 
+	margin: 0 auto !important; 
+  float: none !important; 
+  font-family: 'Roboto', sans-serif;
+}
+
+body > section {
+  max-width: 600px; 
+  margin: 0 auto; 
+  max-width: 600px;
+}
+
+article.logo {
+  padding: 1em;
+  width: 50%;
+  margin: 0 auto; 
+}
+
+section.content > p:first-child {
+  font-size: 2em;
+}
