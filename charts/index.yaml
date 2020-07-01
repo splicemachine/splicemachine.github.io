@@ -1,3 +1,18 @@
 apiVersion: v1
 entries:
-generated: "2020-07-01T02:13:50.034536609Z"
+  splice-helm:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2020-07-01T13:32:12.190368011Z"
+    description: A Helm chart for launching Splice Machine on Kubernetes
+    digest: d19f26a6822619f31d451645f38457639fc72f74c1ef21d6075e95fd4adfeb48
+    home: https://www.splicemachine.com
+    icon: https://splicemachine.github.io/sm.logo.800x200px_180509.svg
+    maintainers:
+    - email: cloud-support@splicemachine.com
+      name: cloud-support
+    name: splice-helm
+    urls:
+    - splice-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-01T13:32:12.182813454Z"
