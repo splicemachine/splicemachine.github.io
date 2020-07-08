@@ -1,0 +1,9 @@
+global:
+  tls:
+    crt: REPLACE_TLSCRT
+    key: REPLACE_TLSKEY
+  certificateName: REPLACE_CERTIFICATE
+
+condition:
+  installCertificate:
+    enabled: false
