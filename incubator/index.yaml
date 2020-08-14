@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  splice-helm:
+  - apiVersion: v1
+    appVersion: "3.0"
+    created: "2020-08-14T14:51:56.636668-05:00"
+    description: Splice Machine data platform is a scale-out SQL RDBMS, data warehouse
+      and machine learning management solution in one.
+    digest: 320363a17f4ec76159d0e591c7ed534fe466eed55c50858fc75472fe5a2d343a
+    home: https://www.splicemachine.com
+    icon: https://splicemachine.github.io/sm.logo.800x200px_180509.svg
+    keywords:
+    - Database
+    - SQL
+    - Scale out
+    - Notebook
+    - ACID
+    maintainers:
+    - email: cloud-support@splicemachine.com
+      name: cloud-support
+    name: splice-helm
+    urls:
+    - splice-helm-0.1.7.tgz
+    version: 0.1.7
+generated: "2020-08-14T14:51:56.627291-05:00"
