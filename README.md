@@ -1,11 +1,11 @@
 # Splice Machine Kubernetes
- Kubernetes Ops Center
+ Kubernetes OpsCenter documentation, runbooks and troubleshooting guide.
 
 ## Helm Charts
 
 Configure <code>helm</code> to use this URL for Splice Machine's Helm repository.
 
-## Run Books
+## Runbooks
 
 As a part of the Splice Machine OpsCenter, there are several alerts that can be fired.  See the [list of runbooks](./docs/runbooks/index.html) for more information.
 
